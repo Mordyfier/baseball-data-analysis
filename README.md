@@ -1,4 +1,4 @@
-# CISC. 3225 - Data Tool and Algorithms
+# CISC. 3225 - Data Tools and Algorithms
 ## Data Analysis Project
 
 This data analysis project aims to analyze and draw conclusions from the [Moneyball](https://www.kaggle.com/wduckett/moneyball-mlb-stats-19622012) dataset on Kaggle.
