@@ -18,6 +18,8 @@ Exploration of ethical ramifications of our analysis: the handling of demographi
 
 A deeper dive back into the dataset and the resulting pandas dataframe. Reorganization of default 0-n indices into a more appropriate multi-index ('Year', 'Team'). Description and basic statistical analysis (mean, median, quartiles, outliers, underlying distribution estimation, correlations) of each numeric variable.  
 
-## 4. Higher-Level Analysis
+## 4. [Higher-Level Analysis](https://github.com/Mordyfier/baseball-data-analysis/blob/master/4-higher-level-analysis.ipynb)
+
+Visual and statistical analysis of the MLB dataset. The statistics included in the original .csv file are sufficient to perform a number of statistical tests that can give us some ideas regarding success in the MLB, on the League and Team level, as well as over time. The Colorado Rockies ballpark - Coors Field - is also examined for whether its outlying altitude affects the team's performance.The defensive data included in the dataset is rudimentary, but it also allows some potential conclusions regarding the impact of better pitching and fielding on team performance.
 
 ## 5. Final Report
