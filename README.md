@@ -22,4 +22,6 @@ A deeper dive back into the dataset and the resulting pandas dataframe. Reorgani
 
 Visual and statistical analysis of the MLB dataset. The statistics included in the original .csv file are sufficient to perform a number of statistical tests that can give us some ideas regarding success in the MLB, on the League and Team level, as well as over time. The Colorado Rockies ballpark - Coors Field - is also examined for whether its outlying altitude affects the team's performance.The defensive data included in the dataset is rudimentary, but it also allows some potential conclusions regarding the impact of better pitching and fielding on team performance.
 
-## 5. Final Report
+## 5. [Final Report](https://drive.google.com/file/d/1jwjyJ-0iSjxXdE8BIy_R_ARbqHlrMKR8/view?usp=sharing) (.pdf hosted in Google Drive)
+
+A summary of the higher-level analysis; findings of visual and statistical examination in a report form. Conclusions from the data analysis.
